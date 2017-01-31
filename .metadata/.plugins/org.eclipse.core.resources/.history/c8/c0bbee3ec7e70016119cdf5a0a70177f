@@ -1,0 +1,10 @@
+package org.lappsgrid.example;
+
+import org.lappsgrid.api.ProcessingService;
+public class WhitespaceTokenizer {
+	public WhitespaceTokenizer() { }
+    @Override
+    public String getMetadata() { return null; }
+    @Override
+    public String execute(String input) { return null; }
+}
